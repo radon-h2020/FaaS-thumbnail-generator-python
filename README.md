@@ -16,7 +16,7 @@ python3 -m venv venv-img
 ```
 Install necessary depedencies:
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Deactivate virtualenv, and zip site packages and change to starting dir: 

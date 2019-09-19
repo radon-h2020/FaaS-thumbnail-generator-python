@@ -8,6 +8,8 @@ The \*.zip in `binary-zip` directory contains the whole project ready to deploy 
   
 ### How to prepare a zip for Lambda deploy:
 
+NOTE: The example is tested and works with `python3.6`! There **are issues** with `python 3.7`.
+
 First you need to create a clean virtual env and activate it:
 
 ```
